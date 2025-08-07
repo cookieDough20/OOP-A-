@@ -13,11 +13,7 @@ public class Q15_StudentThis {
     }
 
     void display() {
-<<<<<<< HEAD
         System.out.println("ID: " + this.id + ", Namne: " + this.name + ", Course: " + this.course);
-=======
-        System.out.println("ID: " + this.id + ", Name: " + this.name + ", Course: " + this.course);
->>>>>>> c164e98ec9747bc203084566aa6aaa7a932b2d07
     }
 
     public static void main(String[] args) {
